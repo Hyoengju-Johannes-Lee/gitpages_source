@@ -11,7 +11,7 @@ redirect_from: /integrations/hassio/
 홈어시스턴트의 장점:
 
 - 무료 오픈소스
-- 라즈베라파이와 같은 임베디드 기기에 최적화
+- 라즈베리파이와 같은 임베디드 기기에 최적화
 - 인터넷 연결이 끊겨도 100% 동작하는 홈오토메이션
 - 쉬운 설치 및 업데이트 (powered by the [Home Assistant Operating System] and [Home Assistant Core])
 - 홈어시스턴트를 웹브라우저에서 손쉽게 관리
